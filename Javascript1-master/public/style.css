@@ -1,0 +1,10 @@
+h1 {
+    font-family: sans-serif;
+    color: mediumvioletred;
+    /*text-align: center;*/
+}
+
+div {
+    position: relative;
+    top: 27em;
+}
